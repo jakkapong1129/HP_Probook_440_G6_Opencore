@@ -4,11 +4,6 @@
 
 ## HP Probook 440 G6 Opencore HACKINTOSH
 
-[![img](https://img.shields.io/github/stars/jinmu333/HP_Probook_440_G6_EFI.svg?logoColor=blue&style=for-the-badge)
-![img](https://img.shields.io/github/forks/jinmu333/HP_Probook_440_G6_EFI.svg?logoColor=blue&style=for-the-badge)
-![img](https://img.shields.io/github/last-commit/jinmu333/HP_Probook_440_G6_EFI.svg?color=blue&style=for-the-badge)](https://github.com/jinmu333/HP_Probook_440_G6_EFI)
-[![img](https://img.shields.io/badge/link-996.icu-red.svg?style=for-the-badge)](https://github.com/996icu/996.ICU)
-
 ## Support macOS Big Sur(11.01)
 
 ### Devices

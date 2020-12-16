@@ -1,6 +1,6 @@
 # HP_Probook_440_G6_Opencore
 
-# Donate https://paypal.me/JakkapongW?locale.x=th_TH
+# Donate https://www.paypal.com/paypalme/604js2006
 
 ## HP Probook 440 G6 Opencore HACKINTOSH
 
